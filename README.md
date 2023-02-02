@@ -26,7 +26,7 @@ Unzip rockyou.txt and create path to wordlist:
 Locate rockyou.txt in Kali Linux:
 <pre><code>cd /usr/share/wordlists</code></pre>
 <pre><code>ls</code></pre>
-It will present as <pre><code>rockyou.txt.gz</code></pre>
+It will present as: <pre><code>rockyou.txt.gz</code></pre>
 Unzip rockyou.txt:
 <pre><code>sudo gunzip rockyou.txt.gz</code></pre>
 
