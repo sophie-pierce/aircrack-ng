@@ -1,4 +1,4 @@
-*the writer of this code is not resposible any further use* 
+*the writer of this code is not resposible for any further use* 
 # UCLA Final Presentation: Aircrack-ng on Kali Linux
 Verify airmon-ng has no issues:
 <pre><code>sudo airmon-ng check</code></pre>
